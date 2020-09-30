@@ -1,0 +1,8 @@
+﻿Key:
+ab95e23a65c14b37bc7dea6950da78ec
+
+Stadiums
+https://api.sportsdata.io/v3/mlb/scores/json/Stadiums?key=ab95e23a65c14b37bc7dea6950da78ec
+
+
+
